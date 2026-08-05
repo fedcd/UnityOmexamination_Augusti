@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/A23Eliwi.unity
+- path: Assets/Scenes/SceneOne.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
